@@ -1,0 +1,95 @@
+body{
+padding: 0px;
+}
+    
+.table{
+   position: relative;
+   display: flex;
+  
+   
+  
+}
+.first{
+    border-radius: 20px;
+    stroke-width: 34px;
+}
+.logo{
+    font-weight: bold;
+    margin-left: 50px;
+    font-size: 20px;
+    margin-top: 20px;
+}
+.Login{
+    background-color: black;
+    color: white;
+    border-radius: 20px;
+    padding: 5px;
+    height: 30px;
+   
+}
+.right-nav{
+    float: right;
+    margin-right: 50px;
+    margin-top: 20px;
+}
+heads{
+    margin-top: 20px;
+}
+.second-position{
+    text-align: center;
+    margin-top: 190px;
+}
+.first-heading{
+    font-size: 60px;
+}
+.start{
+    height: 50px;
+    font-size: 25px;
+    border-radius: 6px;
+    border: none;
+}
+.card {
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    max-width: 300px;
+    overflow: hidden;
+    text-align: center;
+    justify-content: center;
+    margin-left: 450px;
+    margin-top: 90px;
+}
+.third-position{
+    text-align: center;
+    margin-top: 110px;
+}
+.te{
+    text-align: center;
+    justify-content: center;
+    margin-top: 70px;
+}
+.last-heading{
+    text-align: center;
+    justify-content: center;
+    margin-top: 70px; 
+}
+.book{
+    height: 50px;
+    font-size: 25px;
+    border-radius: 6px;
+    background-color: rgb(69, 69, 217);
+    color: white;
+    border-radius: 20px;
+    border: none;
+}
+.foot{
+    justify-content: space-between;
+    margin-left: 50px;
+    font-size: 20px;
+    margin-top: 150px;
+}
+.platforms{
+    float: right;
+    margin-right: 50px;
+    font-size: 20px;
+}
